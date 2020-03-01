@@ -11,7 +11,7 @@ https://www.kaggle.com/lewisduncan93/the-economic-freedom-index
 
 ## Result
 Two factors were extracted.
-The results indicate several clusters of countries. On the top left side we see a cluster of small countries with high gdp per capita (Singapour, Luxembourg). In the center of the chart are mostly Central-European countries like Finland, Austria or The Netherlands. Slightly below that a cluster containing African, South-American and  Eastern-European countries emerges.
+The results indicate several clusters of countries. On the top left side we see a cluster of small countries with high gdp per capita (Singapore, Luxembourg). In the center of the chart are mostly Central-European countries like Finland, Austria or The Netherlands. Slightly below that a cluster containing African, South-American and  Eastern-European countries emerges.
 
 ![alt text](nmf_result.png "NMF Result")
 
